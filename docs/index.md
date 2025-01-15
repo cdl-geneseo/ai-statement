@@ -39,43 +39,32 @@ As we engage with GenAI at Geneseo, individually and as a community, we should a
 ### Learning
 
 -   How does artificial intelligence, in particular generative artificial intelligence, work?
-
 -   Can we use GenAI to improve learning?
-
 -   Can GenAI make learning more equitable?
-
 -   Does GenAI create obstacles for learning? If so, how can we overcome them?
-
 -   As a community of learners, how can we best exchange knowledge, perspectives, and questions about the roles, risks, and opportunities of GenAI in our disciplinary and professional areas?
 
 ### Creativity
 
 -   Can we use GenAI to unlock creativity? To create in new ways?
-
 -   What are the opportunities and risks for creators (authors, artists, etc.) in using GenAI?
 
 ### Belonging
 
 -   Within our community, who benefits from GenAI? How can we ensure that the benefits are enjoyed inclusively, not exclusively?
-
 -   Does GenAI have corrosive effects on community? (For example, by perpetuating bias or facilitating the spread of misinformation.)
 
 ### Civic engagement
 
 -   What is the business model for GenAI tools and services? Outside our community, who benefits from our use of GenAI? Can we trust the providers of these tools and services?
-
 -   Who does the work of sorting and sifting the data used to train GenAI models in order to improve them? What are the working conditions of these \"humans in the loop\"? How are they compensated for their work?
-
 -   What political remedies are possible or necessary, in the form of laws and regulations, to mitigate the negative effects of GenAI? To expand who benefits from its positive potential?
 
 ### Sustainability
 
 -   What are the environmental impacts of GenAI?
-
 -   How do the energy needs of GenAI affect the communities living near the data centers and power sources necessary to fuel it?
-
 -   How can we minimize the negative environmental effects of GenAI at Geneseo?
-
 -   What are the implications of GenAI for the sustainability of Geneseo as an institution and higher education as a civic project?
 
 
