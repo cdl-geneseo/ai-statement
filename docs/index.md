@@ -8,9 +8,11 @@ This document focuses on the last sense of the term, also commonly referred to a
 
 ## Engaging with GenAI
 
-The growing prevalence of GenAI---in academia, the workplace, and everyday life---imposes an important obligation on educational institutions like Geneseo. **We must do everything in our power to ensure that our students engage with this new technology critically, responsibly, and competently.**
+The growing prevalence of GenAI---in academia, the workplace, and everyday life---imposes an important obligation on educational institutions like Geneseo. **We must do everything in our power to ensure that our entire campus community engages with this new technology critically, responsibly, and competently.**
 
-We can best fulfill this obligation by **engaging with the technology ourselves**, both by learning about it and by testing it firsthand---seeing for ourselves what it can accomplish and where it fails. From this starting point, we can go on to engage students in discussion of the technology in the classroom and beyond. Where we\'re comfortable engaging them in *using* the technology, doing so will create opportunities for collaborative exploration and deeper, richer conversation.
+Individually, we can help Geneseo meet this obligation by testing the technology firsthand--seeing for ourselves what it can accomplish and where it fails--and educating ourselves about the issues surrounding it&mdash;issues of trust, integrity, reliability, and social responsibility, to name just a few. From this starting point, we can go on to engage one another in discussion of the technology in the classroom and beyond. Where faculty are comfortable engaging students in *using* the technology, doing so may create opportunities for collaborative exploration and deeper, richer conversation.
+
+<!-- Each of us can best help Geneseo meet this obligation by **engaging with the technology ourselves**, both by learning about it and by testing it firsthand---seeing for ourselves what it can accomplish and where it fails. From this starting point, we can go on to engage students in discussion of the technology in the classroom and beyond. Where we\'re comfortable engaging them in *using* the technology, doing so will create opportunities for collaborative exploration and deeper, richer conversation. -->
 
 ## Establishing clear expectations
 
@@ -34,7 +36,7 @@ Engaging with GenAI **competently** means, among other things, understanding whe
 
 ## Upholding and advancing Geneseo\'s values
 
-As we engage with GenAI at Geneseo, individually and as a community, we should ask ourselves continuously **how and when we can use this technology in ways that uphold and advance our values.** Below are some questions to consider raising with colleagues and students, organized by these values. **Many more questions could be raised in connection with each value**, and some questions could be repeated under more than one value. Those below are simply intended to help get substantive conversations going.
+As we engage with GenAI at Geneseo, individually and as a community, we should ask ourselves continuously **how and when we can use this technology in ways that uphold and advance our values.** Below are some questions to consider under our values of learning, creativity, belonging, civic engagement, and sustainability. **Many more questions could be raised in connection with each value**, and some questions could be repeated under more than one value. Those below are simply intended to help get substantive conversations going.
 
 ### Learning
 
