@@ -10,7 +10,7 @@ This document focuses on the last sense of the term, also commonly referred to a
 
 Given the growing prevalence of GenAI---in academia, the workplace, and everyday life---ignoring it is not an option. **Rather, as a campus community we must commit collectively to engaging with this new technology critically, responsibly, and competently.**
 
-Individually, we can each help Geneseo meet this commitment by testing the technology firsthand--seeing for ourselves what it can accomplish and where it fails--and educating ourselves about the many issues surrounding it&mdash;issues of trust, transparency, integrity, reliability, and social responsibility, to name just a few. From this starting point, we can engage one another in discussion of the technology in the classroom and beyond. Where faculty are comfortable engaging students in *using* the technology, doing so may create opportunities for collaborative exploration and deeper, richer conversation.
+Individually, we can each help Geneseo meet this commitment by **testing the technology firsthand**--seeing for ourselves what it can accomplish and where it fails--and **educating ourselves** about the many issues surrounding it&mdash;issues of **trust, transparency, integrity, reliability, and social responsibility**, to name just a few. From this starting point, we can engage one another in discussion of the technology in the classroom and beyond. Where faculty are comfortable engaging students in *using* the technology, doing so may create opportunities for collaborative exploration and deeper, richer conversation.
 
 ## Establishing clear expectations
 
