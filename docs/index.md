@@ -2,7 +2,7 @@
 
 ## AI and GenAI
 
-***Artificial intelligence (AI)*** is a term usually used to describe either an area of research within computer science, a property that some researchers claim (controversially) belongs or could belong to certain computer systems, or a set of technologies for generating new content (text, images, sound, etc.) from existing content.
+***Artificial intelligence (AI)*** is a term usually used to describe either an area of research within computer science, a property that some researchers claim (controversially) belongs or could belong to certain computer systems, or a set of technologies for generating new digital content (text, images, sound, etc.) from existing content.
 
 This document focuses on the last sense of the term, also commonly referred to as ***generative artificial intelligence*** or ***GenAI***. While GenAI isn't new, it suddenly seems to be everywhere: not only in free-standing tools with names such as ChatGPT, Claude, Gemini, Copilot, DALL-E, and Midjourney, but also, increasingly, as an affordance built into other tools, such as search engines, word-processors, image editors, email and messaging interfaces, mobile devices and apps, coding environments, websites, cars, and household appliances.
 
@@ -14,7 +14,7 @@ Individually, we can each help Geneseo meet this commitment by **testing the tec
 
 ## Establishing clear expectations
 
-In the classroom, this conversation should include **clear guidelines from the instructor about whether, how, and where using GenAI to complete assignments is acceptable**. The conversation should complement a **clear statement of these guidelines in the course syllabus**. A good statement will **distinguish** between free-standing AI tools and those built into word-processors and other software, such as tools for checking grammar and spelling, suggesting word choices, or improving clarity. In establishing ground rules for the classroom, it's important to recognize how pervasive and sometimes inescapable this latter category of tools has become. **Prohibiting the use of GenAI completely and absolutely will likely raise more questions than it answers** for students about acceptable use, and is in any case **unrealistic** given that detecting the use of many built-in tools is difficult if not impossible.
+In classroom conversation about GenAI, faculty should establish **clear expectations as to whether, how, and where using GenAI to complete assignments is acceptable**. Faculty should also provide a **clear statement of these expectations on the course syllabus**. A good statement will **distinguish** between free-standing AI tools and those built into word-processors and other software, such as tools for checking grammar and spelling, suggesting word choices, or improving clarity. In establishing ground rules for the classroom, it's important to recognize how pervasive and sometimes inescapable this latter category of tools has become. **Prohibiting the use of GenAI completely and absolutely will likely raise more questions than it answers** for students about acceptable use, and is in any case **unrealistic** given that detecting the use of many built-in tools is difficult if not impossible.
 
 ## Engaging responsibly, critically, and competently
 
