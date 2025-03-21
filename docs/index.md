@@ -18,7 +18,7 @@ Every office on campus should establish **clear expectations regarding acceptabl
 
 ## Engaging responsibly, critically, and competently
 
-Engaging with GenAI **responsibly** means, among other things, recognizing that **certain types of data should *never* be provided to GenAI tools as inputs.** These include
+Engaging with GenAI **responsibly** means, among other things, recognizing that **certain types of data should never be provided to GenAI tools as inputs.** These include
 
 -   data protected by the **Federal Educational Rights and Privacy Act** (FERPA), such as education records;
 -   **confidential data** of any kind;
