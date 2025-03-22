@@ -1,4 +1,4 @@
-# AI at SUNY Geneseo
+# AI at SUNY Geneseo (Draft)
 
 ## AI and GenAI
 
@@ -14,7 +14,7 @@ Engaging with GenAI does not require embracing it. It does not require accepting
 
 ## Establishing clear expectations
 
-Every office on campus should establish **clear expectations regarding acceptable use of GenAI in accomplishing the work of the office**, including when and how GenAI may be used appropriately (if it may be used at all). Consistent with New York State policy on [Acceptable Use of Artificial Intelligence Technologies](https://its.ny.gov/system/files/documents/2025/03/nys-p24-001-acceptable-use-of-artificial-intelligence-technologies.pdf), GenAI tools should only be employed in ways that involve human oversight, follow principles of fairness and equity, and provide transparency by disclosing when and how such tools have been employed. The same criteria should govern the use of GenAI tools in teaching and learning. In the classroom, faculty should establish clear expectations regarding students' use of GenAI to complete assignments, and they should **state these expectations clearly on their syllabi**. A good statement will provide detailed guidance that distinguishes among different tools and uses, such as idea-generation, problem-solving, outlining, summarizing, knowledge-seeking, spell-checking, and grammar-correction. For their part, students are entitled to know when and how their faculty are using GenAI tools for such purposes as creating assignments and assessments, grading submitted work, and generating communications.
+Every office on campus should establish **clear expectations regarding acceptable use of GenAI in accomplishing the work of the office**, including when and how GenAI may be used appropriately (if it may be used at all). Consistent with New York State policy on [Acceptable Use of Artificial Intelligence Technologies](https://its.ny.gov/system/files/documents/2025/03/nys-p24-001-acceptable-use-of-artificial-intelligence-technologies.pdf), GenAI tools should only be employed in ways that involve **human oversight**, follow principles of **fairness and equity**, and provide **transparency** by disclosing when and how such tools have been employed. The same criteria should govern the use of GenAI tools in teaching and learning. In the classroom, faculty should establish clear expectations regarding students' use of GenAI to complete assignments, and they should **state these expectations clearly on their syllabi**. A good statement will provide detailed guidance that distinguishes among different tools and uses, such as idea-generation, problem-solving, outlining, summarizing, knowledge-seeking, spell-checking, and grammar-correction. For their part, students are entitled to know when and how their faculty are using GenAI tools for such purposes as creating assignments and assessments, grading submitted work, and generating communications.
 
 ## Engaging responsibly, critically, and competently
 
