@@ -24,7 +24,7 @@ The same Glossary defines **Generative AI** as "AI that is capable of generating
 
 ## Engaging with Generative AI at Geneseo
 
-The present document concerns itself primarily but not exclusively with Generative AI, or, for short, **GenAI**, because it is GenAI that has so far dominated the public conversation about AI's impact within and beyond academia.
+The present document concerns itself primarily but not exclusively with GenAI, for it is GenAI that has so far dominated the public conversation about AI's impact within and beyond academia.
 
 While GenAI is not new, it suddenly seems to be everywhere: not only in free-standing tools with names such as ChatGPT, Claude, Gemini, Copilot, DALL-E, and Midjourney, but also, increasingly, as an affordance built into other tools, such as search engines, word-processors, image editors, email and messaging interfaces, mobile devices and apps, coding environments, websites, cars, and household appliances.
 
