@@ -1,12 +1,28 @@
 # AI at SUNY Geneseo (Draft)
 
-## AI and GenAI
+## Purpose
 
-***Artificial intelligence (AI)*** is a term usually used to describe either an area of research within computer science, a property that some researchers claim (controversially) belongs or could belong to certain computer systems, or a set of technologies for generating new digital content (text, images, sound, etc.) from existing content.
+This document sets forth a shared framework of definitions, principles, and guidelines intended to help our campus meet the challenges and leverage the opportunities presented by **Artificial Intelligence (AI)**, particularly **Generative Artificial Intelligence (GenAI).** (These terms are defined below under [Definitions](#definitions).)
 
-This document focuses on the last sense of the term, also commonly referred to as ***generative artificial intelligence*** or ***GenAI***. While GenAI is not new, it suddenly seems to be everywhere: not only in free-standing tools with names such as ChatGPT, Claude, Gemini, Copilot, DALL-E, and Midjourney, but also, increasingly, as an affordance built into other tools, such as search engines, word-processors, image editors, email and messaging interfaces, mobile devices and apps, coding environments, websites, cars, and household appliances.
+*This document does not set forth any policies*, although it may prove useful in the development of such policies as may be deemed necessary for governing the use of AI at Geneseo. 
 
-## Engaging with GenAI
+Descriptions in this document of *opportunities* presented by AI should not be construed as cheerleading. Descriptions in this document of *risks and harms* presented by AI should not be construed as deprecation. How to regard these opportunities, risks, and harms, in themselves and on balance, must remain a matter of individual judgment.
+
+## Adherence to New York State policies
+
+Although the present document is not intended as a policy, it is important to remember that as a State Entity, SUNY Geneseo is bound by New York State policies, including Policy No. NYS-P24-001, [Acceptable Use of Artificial Intelligence Technologies](https://its.ny.gov/system/files/documents/2025/03/nys-p24-001-acceptable-use-of-artificial-intelligence-technologies.pdf).
+
+## Definitions
+
+In its [Glossary](https://its.ny.gov/glossary), the New York State [Office of Information Technology Services](https://its.ny.gov/) defines **Artificial Intelligence** as "A machine-based system, that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments. Artificial intelligence systems use machine- and human-based inputs to perceive real and virtual environments; abstract such perceptions into models through analysis in an automated manner; and use model inference to formulate options for information or action. The definition does not include basic calculations like Excel formulas, basic automation, or pre-recorded response systems."
+
+The same Glossary defines **Generative AI** as "AI that is capable of generating text, images, or other media, using generative models. Generative AI models learn the patterns and structure of their input training data and then generate new data that has similar characteristics."
+
+## Engaging with Generative AI at Geneseo
+
+The present document concerns itself primarily but not exclusively with Generative AI, or, for short, **GenAI**, for it is GenAI that has so far dominated the public conversation about AI's impact within and beyond academia. 
+
+
 
 Given the growing prevalence of GenAI&mdash;in academia, the workplace, and everyday life&mdash;ignoring it is not an option. **Rather, as a campus community we must commit collectively to engaging with this new technology critically, responsibly, and competently.**
 
