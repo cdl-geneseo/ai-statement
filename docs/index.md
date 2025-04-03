@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document sets forth a shared framework of definitions, principles, and guidelines intended to help our campus meet the challenges and leverage the opportunities presented by **Artificial Intelligence (AI)**, particularly **Generative Artificial Intelligence (GenAI).** (These terms are defined below under [Definitions](#definitions).)
+This document sets forth a framework of definitions, principles, and guidelines intended to help our campus meet the challenges and leverage the opportunities presented by **Artificial Intelligence (AI)**, particularly **Generative Artificial Intelligence (GenAI).** (These terms are defined below under [Definitions](#definitions).)
 
 *This is not a policy document*, although it may prove useful in the development of such policies as may be deemed necessary, in future, for governing the use of AI at Geneseo. In the interest of staking out a broad area of shared practice, the document does seek to establish a number of norms.
 
