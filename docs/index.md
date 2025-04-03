@@ -4,13 +4,17 @@
 
 This document sets forth a shared framework of definitions, principles, and guidelines intended to help our campus meet the challenges and leverage the opportunities presented by **Artificial Intelligence (AI)**, particularly **Generative Artificial Intelligence (GenAI).** (These terms are defined below under [Definitions](#definitions).)
 
-*This document does not set forth any policies*, although it may prove useful in the development of such policies as may be deemed necessary for governing the use of AI at Geneseo. 
+*This is not a policy document*, although it may prove useful in the development of such policies as may be deemed necessary, in future, for governing the use of AI at Geneseo. In the interest of staking out a broad area of shared practice, the document does seek to establish a number of norms.
 
-Descriptions in this document of *opportunities* presented by AI should not be construed as cheerleading. Descriptions in this document of *risks and harms* presented by AI should not be construed as deprecation. How to regard these opportunities, risks, and harms, in themselves and on balance, must remain a matter of individual judgment.
+Descriptions in this document of opportunities and benefits afforded by AI should not be construed as cheerleading. Descriptions in this document of risks and harms presented by AI should not be construed as deprecation. How to regard these opportunities, benefits, risks, and harms, in themselves and on balance, must remain a matter of individual judgment.
 
-## Adherence to New York State policies
+## Adherence to existing policies and laws
 
 Although the present document is not intended as a policy, it is important to remember that as a State Entity, SUNY Geneseo is bound by New York State policies, including Policy No. NYS-P24-001, [Acceptable Use of Artificial Intelligence Technologies](https://its.ny.gov/system/files/documents/2025/03/nys-p24-001-acceptable-use-of-artificial-intelligence-technologies.pdf).
+
+As a practical matter, SUNY Geneseo must adhere to policies adopted by our accreditor, the [Middle States Commission on Higher Education (MSCHE)](https://www.msche.org/), which is currently accepting comments on a draft [Use of Artificial Intelligence Policy](https://www.msche.org/policies-guidelines/?status=review&sf_paged=6).
+
+Finally, any use of AI at SUNY Geneseo must be consistent with all applicable [policies of the College](https://www.geneseo.edu/policy/policy-library) and all applicable state and federal laws.
 
 ## Definitions
 
@@ -20,26 +24,26 @@ The same Glossary defines **Generative AI** as "AI that is capable of generating
 
 ## Engaging with Generative AI at Geneseo
 
-The present document concerns itself primarily but not exclusively with Generative AI, or, for short, **GenAI**, for it is GenAI that has so far dominated the public conversation about AI's impact within and beyond academia. 
+The present document concerns itself primarily but not exclusively with Generative AI, or, for short, **GenAI**, because it is GenAI that has so far dominated the public conversation about AI's impact within and beyond academia.
 
+While GenAI is not new, it suddenly seems to be everywhere: not only in free-standing tools with names such as ChatGPT, Claude, Gemini, Copilot, DALL-E, and Midjourney, but also, increasingly, as an affordance built into other tools, such as search engines, word-processors, image editors, email and messaging interfaces, mobile devices and apps, coding environments, websites, cars, and household appliances.
 
-
-Given the growing prevalence of GenAI&mdash;in academia, the workplace, and everyday life&mdash;ignoring it is not an option. **Rather, as a campus community we must commit collectively to engaging with this new technology critically, responsibly, and competently.**
+Given the growing prevalence of GenAI, ignoring it is not an option. **Rather, as a campus community we must commit collectively to engaging with this new technology critically, responsibly, and competently.**
 
 Engaging with GenAI does not require embracing it. It does not require accepting its proliferation as inevitable. It does require that we **educate ourselves** about the technology so that we understand how it works, what it can and cannot do, and how we might begin to navigate some of the issues surrounding it: issues of **trust, transparency, integrity, reliability, and social responsibility**, to name just a few. From this starting point, we can engage one another in discussion of GenAI in the classroom and beyond. Where faculty and staff are comfortable engaging students in actually using GenAI, doing so may create opportunities for collaborative exploration and deeper, richer conversation.
 
 ## Establishing clear expectations
 
-Every office on campus should establish **clear expectations regarding acceptable use of GenAI in accomplishing the work of the office**, including when and how GenAI may be used appropriately (if it may be used at all). Consistent with New York State policy on [Acceptable Use of Artificial Intelligence Technologies](https://its.ny.gov/system/files/documents/2025/03/nys-p24-001-acceptable-use-of-artificial-intelligence-technologies.pdf), GenAI tools should only be employed in ways that involve **human oversight**, follow principles of **fairness and equity**, and provide **transparency** by disclosing when and how such tools have been employed. The same criteria should govern the use of GenAI tools in teaching and learning. In the classroom, faculty should establish clear expectations regarding students' use of GenAI to complete assignments, and they should **state these expectations clearly on their syllabi**. A good statement will provide detailed guidance that distinguishes among different tools and uses, such as idea-generation, problem-solving, outlining, summarizing, knowledge-seeking, spell-checking, and grammar-correction. For their part, students are entitled to know when and how their faculty are using GenAI tools for such purposes as creating assignments and assessments, grading submitted work, and generating communications.
+Every office on campus should establish **clear expectations regarding acceptable use of GenAI in accomplishing the work of the office**, including when and how GenAI may be used appropriately (if it may be used at all). Consistent with New York State policy, referenced earlier, on [Acceptable Use of Artificial Intelligence Technologies](https://its.ny.gov/system/files/documents/2025/03/nys-p24-001-acceptable-use-of-artificial-intelligence-technologies.pdf), GenAI tools should only be employed in ways that involve **human oversight**, follow principles of **fairness and equity**, and provide **transparency** by disclosing when and how such tools have been employed. The same criteria should govern the use of GenAI tools in teaching and learning. In the classroom, faculty should establish clear expectations regarding students' use of GenAI to complete assignments, and they should **state these expectations clearly on their syllabi**. A good statement will provide detailed guidance that distinguishes among different tools and uses, such as idea-generation, problem-solving, outlining, summarizing, knowledge-seeking, spell-checking, and grammar-correction. For their part, students are entitled to know when and how their faculty are using GenAI tools for such purposes as creating assignments and assessments, grading submitted work, and generating communications.
 
 ## Engaging responsibly, critically, and competently
 
-Engaging with GenAI **responsibly** means, among other things, recognizing that **certain types of data should never be provided to GenAI tools as inputs.** These include
+Engaging with GenAI **responsibly** means, among other things, recognizing that **certain types of data should not be provided to GenAI tools as inputs.** These include
 
 -   data protected by the **Federal Educational Rights and Privacy Act** (FERPA), such as education records;
 -   **confidential data** of any kind;
--   **personally identifiable information** (PII)---that is, information related to an identifiable individual;
--   **content protected by copyright**. This last category includes original work by **faculty, staff, administrators, and students**. Original works of authorship are under copyright from the moment of their creation and do not require registration to be protected. **While authors may choose to provide as input to GenAI works in which they themselves hold the copyright**, they should do so with caution, understanding the potential for their work to be used as training data by the provider of an AI tool or service. Under the terms of Geneseo's license with Microsoft, Microsoft may not use as training data the content entered into its Copilot AI tool by users logged into the tool with their Geneseo accounts. But users must decide for themselves how reassured they feel by this fact. *Caveat scriptor*.
+-   **personally identifiable information** (PII)---that is, information related to an identifiable individual;[^1]
+-   **content protected by copyright, unless expressly permitted, in writing, by the copyright holder**. This category includes original work by **faculty, staff, administrators, and students**. Original works of authorship are under copyright from the moment of their creation and do not require registration to be protected. **While authors may of course choose to provide as input to GenAI works in which they themselves hold the copyright**, they should do so with caution, understanding the potential for their work to be used as training data by the provider of an AI tool or service. Under the terms of Geneseo's license with Microsoft, Microsoft may not use as training data the content entered into its Copilot AI tool by users logged into the tool with their Geneseo accounts. But users must decide for themselves how reassured they feel by this fact. *Caveat scriptor*.
 
 Engaging with GenAI **critically** means, among other things, recognizing that AI tools replicate the biases and misinformation in their training data, cannot distinguish fact from falsehood, frequently invent their own facts (a phenomenon sometimes called "hallucination"), and cannot even perform basic calculations or data analysis reliably. It means **understanding that AI is having and will likely continue to have widespread and significant social, economic, political, and environmental effects:** threatening job security, destabilizing conventional understandings around intellectual property, polluting civic discourse, and contributing to climate change---but also leveling the playing field for individuals with certain types of disabilities, opening new avenues for creativity, and providing new tools for advancing individual and public health.
 
@@ -79,3 +83,6 @@ As we engage with GenAI at Geneseo, individually and as a community, we should a
 -   How do the energy needs of GenAI affect the communities living near the data centers and power sources necessary to fuel it?
 -   How can we minimize the negative environmental effects of GenAI at Geneseo?
 -   What are the implications of GenAI for the sustainability of Geneseo as an institution and higher education as a civic project?
+
+---
+[^1]: New York State policy on [Acceptable Use of Artificial Intelligence Technologies](https://its.ny.gov/system/files/documents/2025/03/nys-p24-001-acceptable-use-of-artificial-intelligence-technologies.pdf) carves out narrow exceptions for inputting "personally identifiable, confidential, or sensitive information" to AI systems consistent with "applicable laws, rules, regulations, notices, and policies" (p. 3), but Geneseo users should not determine for themselves whether a particular situation meets the criteria for an exception. Rather, users should not input information of this kind into any AI system or tool without prior authorization from Geneseo's [Department of Computing and Information Technology](https://www.geneseo.edu/cit) .
