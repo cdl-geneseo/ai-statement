@@ -8,13 +8,13 @@ This document sets forth a framework of definitions, principles, and guidelines 
 
 Descriptions in this document of opportunities and benefits afforded by AI should not be construed as cheerleading. Descriptions in this document of risks and harms presented by AI should not be construed as deprecation. How to regard these opportunities, benefits, risks, and harms, in themselves and on balance, must remain a matter of individual judgment.
 
-## Adherence to existing policies and laws
+## Adherence to existing policies, laws, and agreements
 
 Although the present document is not intended as a policy, it is important to remember that as a State Entity, SUNY Geneseo is bound by New York State policies, including Policy No. NYS-P24-001, [Acceptable Use of Artificial Intelligence Technologies](https://its.ny.gov/system/files/documents/2025/03/nys-p24-001-acceptable-use-of-artificial-intelligence-technologies.pdf).
 
-As a practical matter, SUNY Geneseo must adhere to policies adopted by our accreditor, the [Middle States Commission on Higher Education (MSCHE)](https://www.msche.org/), which is currently accepting comments on a draft [Use of Artificial Intelligence Policy](https://www.msche.org/policies-guidelines/?status=review&sf_paged=6).
+We are also bound by any applicable provisions of the State University of New York *Policies of the Board of Trustees*, [SUNY system policies](https://www.suny.edu/sunypp/), labor-management agreements to which the system is party, [policies of the College](https://www.geneseo.edu/policy/policy-library), and state and federal law.
 
-Finally, any use of AI at SUNY Geneseo must be consistent with all applicable [policies of the College](https://www.geneseo.edu/policy/policy-library) and all applicable state and federal laws.
+As a practical matter, SUNY Geneseo must adhere to policies adopted by our accreditor, the [Middle States Commission on Higher Education (MSCHE)](https://www.msche.org/), which is currently accepting comments on a draft [Use of Artificial Intelligence Policy](https://www.msche.org/policies-guidelines/?status=review&sf_paged=6).
 
 ## Definitions
 
