@@ -6,7 +6,7 @@ This document sets forth a framework of definitions, principles, and guidelines 
 
 *This is not a policy document*, although it may prove useful in the development of such policies as may be deemed necessary, in future, for governing the use of AI at Geneseo. In the interest of staking out a broad area of shared practice, the document does seek to establish a number of norms.
 
-The document's description of opportunities and benefits afforded by AI should not be construed as cheerleading. Its description of risks and harms presented by AI should not be construed as deprecation. How to regard these opportunities, benefits, risks, and harms, in themselves and on balance, must remain a matter of individual judgment.
+The document's description of opportunities and benefits afforded by AI should not be construed as cheerleading for AI in general. Its description of risks and harms presented by AI should not be construed as deprecation of AI in general. How to regard these opportunities, benefits, risks, and harms, in themselves and on balance, must remain a matter of individual judgment.
 
 ## Adherence to existing policies, laws, and agreements
 
