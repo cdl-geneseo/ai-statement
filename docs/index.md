@@ -14,7 +14,7 @@ Although the present document is not intended as a policy, it is important to re
 
 We are also bound by any applicable provisions of the State University of New York *Policies of the Board of Trustees*, [SUNY system policies](https://www.suny.edu/sunypp/), labor-management agreements to which the system is party, [policies of the College](https://www.geneseo.edu/policy/policy-library), and state and federal law.
 
-As a practical matter, SUNY Geneseo must adhere to policies adopted by our accreditor, the [Middle States Commission on Higher Education (MSCHE)](https://www.msche.org/), which is currently accepting comments on a draft [Use of Artificial Intelligence Policy](https://www.msche.org/policies-guidelines/?status=review&sf_paged=6).
+As a practical matter, SUNY Geneseo must adhere to policies adopted by our accreditor, the [Middle States Commission on Higher Education (MSCHE)](https://www.msche.org/). In addition, certain academic programs must follow the policies of profession-specific accrediting bodies, and all programs would do well to consult any statements or recommendations developed by their disciplinary organizations or associations.
 
 ## Definitions
 
