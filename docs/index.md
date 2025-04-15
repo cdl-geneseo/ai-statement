@@ -10,7 +10,7 @@ The document's description of opportunities and benefits afforded by AI should n
 
 ## Adherence to existing policies, laws, and agreements
 
-Although the present document is not intended as a policy, it is important to remember that as a State Entity, SUNY Geneseo is bound by New York State policies, including Policy No. NYS-P24-001, [Acceptable Use of Artificial Intelligence Technologies](https://its.ny.gov/system/files/documents/2025/03/nys-p24-001-acceptable-use-of-artificial-intelligence-technologies.pdf).
+Although the present document is not intended as a policy, it is important to remember that as a State Entity, SUNY Geneseo is bound by New York State policies, including Policy No. NYS-P24-001, [Acceptable Use of Artificial Intelligence Technologies](https://its.ny.gov/system/files/documents/2025/04/nys-p24-001-acceptable-use-of-artificial-intelligence-technologies.pdf).
 
 We are also bound by any applicable provisions of the State University of New York *Policies of the Board of Trustees*, [SUNY system policies](https://www.suny.edu/sunypp/), labor-management agreements to which the system is party, [policies of the College](https://www.geneseo.edu/policy/policy-library), and state and federal law.
 
@@ -85,4 +85,4 @@ As we engage with GenAI at Geneseo, individually and as a community, we should a
 -   What are the implications of GenAI for the sustainability of Geneseo as an institution and higher education as a civic project?
 
 ---
-[^1]: New York State policy on [Acceptable Use of Artificial Intelligence Technologies](https://its.ny.gov/system/files/documents/2025/03/nys-p24-001-acceptable-use-of-artificial-intelligence-technologies.pdf) carves out narrow exceptions for inputting "personally identifiable, confidential, or sensitive information" to AI systems consistent with "applicable laws, rules, regulations, notices, and policies" (p. 3), but Geneseo users should not determine for themselves whether a particular situation meets the criteria for an exception. Rather, users should not input information of this kind into any AI system or tool without prior authorization from Geneseo's [Department of Computing and Information Technology](https://www.geneseo.edu/cit) .
+[^1]: New York State policy on [Acceptable Use of Artificial Intelligence Technologies](https://its.ny.gov/system/files/documents/2025/04/nys-p24-001-acceptable-use-of-artificial-intelligence-technologies.pdf) carves out narrow exceptions for inputting "personally identifiable, confidential, or sensitive information" to AI systems consistent with "applicable laws, rules, regulations, notices, and policies" (p. 3), but Geneseo users should not determine for themselves whether a particular situation meets the criteria for an exception. Rather, users should not input information of this kind into any AI system or tool without prior authorization from Geneseo's [Department of Computing and Information Technology](https://www.geneseo.edu/cit) .
