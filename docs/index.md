@@ -1,8 +1,8 @@
-*SUNY Geneseo's 2024&ndash;2025 theme for "Ideas that Matter," Artificial Intelligence (AI), produced many discussions of issues and opportunities with AI. One result of these discussions was a task force in academic affairs charged with exploring the potential for a draft SUNY Geneseo statement on AI. Multiple constituents from across the campus were consulted in crafting the draft statement, which appears below.*
+*SUNY Geneseo's 2024&ndash;2025 theme for "Ideas that Matter," Artificial Intelligence (AI), produced many discussions of issues and opportunities related to AI. One result of these discussions was a task force in academic affairs charged with exploring the potential for a draft SUNY Geneseo statement on AI. Multiple constituents from across the campus were consulted in crafting the draft statement, which appears below.*
 
 *In its current form, the statement is proposed for endorsement by the SUNY Geneseo College Senate.*
 
-*Given the newness of AI technology, individuals are likely in different places of learning and understanding of its impact and risks. As this new technology evolves, it may be necessary to revise the statement below. Any proposed revisions will be the result of continued broad-based input from the campus community and will be brought back to the College Senate for its endorsement.*
+*Given the newness of AI technology, individuals are likely in different places with respect to their knowledge and understanding of its impact and risks. As this new technology evolves, it may be necessary to revise the statement below. Any proposed revisions will be the result of continued broad-based input from the campus community and will be brought back to the College Senate for its endorsement.*
 
 # AI at SUNY Geneseo
 
